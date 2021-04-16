@@ -1,3 +1,4 @@
+*** เนื่องจากสร้างโปรเจคด้วย npm แล้วเกิด error ไม่สามารถหาวิธีแก้ได้จึงใช้ yarn ในการสร้างโปรเจค***
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
